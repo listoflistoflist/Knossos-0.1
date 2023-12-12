@@ -1,2 +1,5 @@
 # Knossos-0.1
-An odysee in c#
+An odysee in c# (a fun game, in German though)
+
+![Knossos 0.1](https://github.com/listoflistoflist/Knossos-0.1/blob/main/Knossos%200.1/screenshot.jpg?raw=true)
+
